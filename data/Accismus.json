@@ -1,10 +1,10 @@
 {
     "id": 99489742,
-    "name": "Accismus",
+    "name": "Wasureta",
     "author": "Void",
     "creators": ["Void"],
     "verifier": "Void",
-    "verification": "https://www.youtube.com/watch?v=lOQhGC_B9O8",
+    "verification": "https://www.youtube.com/watch?v=5tZ30LPJM8c",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [    
@@ -13,12 +13,6 @@
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360       
-        },
-        {
-            "user": "DomisorusRex",
-            "link": "https://www.youtube.com/watch?v=_ATmkoBlnw0",
-            "percent": 100,
-            "hz": 240    
         }
     ]
 }
