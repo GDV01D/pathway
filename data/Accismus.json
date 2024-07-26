@@ -1,0 +1,24 @@
+{
+    "id": 99489742,
+    "name": "Accismus",
+    "author": "Void",
+    "creators": ["Void"],
+    "verifier": "Void",
+    "verification": "https://www.youtube.com/watch?v=lOQhGC_B9O8",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [    
+        {
+            "user": "ughvyugu",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360       
+        },
+        {
+            "user": "DomisorusRex",
+            "link": "https://www.youtube.com/watch?v=_ATmkoBlnw0",
+            "percent": 100,
+            "hz": 240    
+        }
+    ]
+}

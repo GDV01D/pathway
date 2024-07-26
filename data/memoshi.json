@@ -1,0 +1,18 @@
+{
+    "id": 108150390,
+    "name": "Memoshi Always Clear",
+    "author": "Fodso",
+    "creators": ["Fodso"],
+    "verifier": "Fodso",
+    "verification": "https://www.youtube.com/watch?v=2Ry7XpuKy5I",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
